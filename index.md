@@ -15,7 +15,6 @@ If you have any networking issues this is probably the heading for you.
 Just to clear up, you can only use eduroam if you have a valid user account like staff or student username <br>
 Some PhD students have weird ones but they should still work, visitors cannot use it and must use UOPGUEST instead
 
-
 Toggle on and off the Wifi<br>
 Forget the network<br>
 Reboot the device<br>
@@ -29,7 +28,7 @@ Ensure that no IPv6 addresses were configured <br>
 If they are on an android, they must ensure that the following settings have been configured <br>
 
 Open the device's Settings menu and select WiFi<br>
-Select <b>eduroam</b> on the list of available networks<br>
+Select **Bold**eduroam**Bold** on the list of available networks<br>
 Set EAP method to PEAP<br>
 Set Phase-2 authentication to MSCHAPv2<br>
 Select Do Not Validate<br>
@@ -56,27 +55,22 @@ If all this fails then log a job to networks on service desk and be sure to incl
 If you don't it just draws out the wait time and leaves Networks having to get it from the student and if they don't <br>
 know how then they will likely come back to the desk anyway so 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### How to deal with UOPGuest issues<br>
 
-1. Numbered
-2. List
+Select the network and it should take you to a captiveportal page where you enter in your details. These can be fake, such as "j" for the name and "j@g.com" for the email
+If you get into a loop then try and enter the webpage address through firefox as that is the best bet and often worked. If you cannot do that then....
 
-**Bold** and _Italic_ and `Code` text
+Good luck is all i can say at this point honestly
 
-[Link](url) and ![Image](src)
-```
+## Printing
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Papercut
 
-### Jekyll Themes
+### Uni Devices
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaximusXVIII/ITHKnowledge.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### LFP
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
