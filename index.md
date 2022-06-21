@@ -9,9 +9,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-```How to deal with Wifi issues
-Toggle on and off the Wifi
-Forget the network
+### How to deal with Wifi issues<br>
+Toggle on and off the Wifi<br>
+Forget the network<br>
+Reboot the device<br>
+Uninstall the network driver<br>
+Run Win+r and type "winget upgrade --all" and run all of the updates<br>
+
+
 
 # Header 1
 ## Header 2
